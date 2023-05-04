@@ -1,14 +1,3 @@
 {
-  "cars": [
-    {
-      "brand": "Mahindra",
-      "type": "Mannual",
-      "year": "2022",
-      "kms": "12000",
-      "Description": "description1",
-      "Price": "1500000",
-      "id": 1
-    }
-  ]
-  
+  "users": []
 }
